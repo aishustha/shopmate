@@ -1,0 +1,46 @@
+.listCard {
+    margin: 40px 100px;
+}
+
+.card {
+    text-align: left;
+    margin-bottom: 40px;
+    border-bottom: 1px solid lightgray;
+}
+
+.id span {
+    background: darkseagreen;
+    color: #fff;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.instock {
+    background: #4cb8cf;
+    color: #fff;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.unavailable {
+    background: #d23b36;
+    color: #fff;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+p.info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.filter button {
+    background: #4c6ccf;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+    margin-right: 10px;
+}

@@ -1,0 +1,28 @@
+{
+    "products" : [
+        {
+            "id": 10001,
+            "name": "Basics To Advanced In React",
+            "price": 29,
+            "in_stock": true
+        },
+        {
+            "id": 10002,
+            "name": "Django To Advanced",
+            "price": 99,
+            "in_stock": false
+        },
+        {
+            "id": 10003,
+            "name": "Backend Development",
+            "price": 49,
+            "in_stock": true
+        },
+        {
+            "id": 10004,
+            "name": "Blockchain",
+            "price": 19,
+            "in_stock": false
+        }
+    ]
+}
